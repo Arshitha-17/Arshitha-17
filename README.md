@@ -1,16 +1,39 @@
-### Hi there 👋
+# Arshitha K - MERN Stack Developer
 
-<!--
-**Arshitha-17/Arshitha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stack developer with a strong foundation in computer science. I hold a degree in Bachelor of Computer Applications (BCA) and have honed my skills in various technologies, including Node.js, React.js, MongoDB, Express, SQL, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- **Name:** Arshitha K
+- **Education:** BCA Graduate
+- **LinkedIn:** https://www.linkedin.com/in/arshitha-k-653ab921b/
+- **Contact:** arshithaachu165@gmail.com
+
+## Skills
+
+- Node.js
+- React.js
+- MongoDB
+- Express
+- SQL
+- JavaScript
+
+## Projects
+
+1. **Project Name:** [Project 1](link_to_project1_repo)
+   - **Description:** Brief description of the project.
+   - **Tech Stack:** Node.js, Express, React.js, MongoDB
+   - **Demo:** [Live Demo](link_to_live_demo_if_available)
+
+2. **Project Name:** [Project 2](link_to_project2_repo)
+   - **Description:** Brief description of the project.
+   - **Tech Stack:** React.js, Firebase
+   - **Demo:** [Live Demo](link_to_live_demo_if_available)
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
