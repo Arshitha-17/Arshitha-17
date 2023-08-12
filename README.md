@@ -25,7 +25,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 1. **Project Name:** Zel Cakes
    - **Description:** Brief description of the project.
    - **Tech Stack:** Node.js, Express, React.js, MongoDB
-   - **Demo:** [Live Demo]([link_to_live_demo_if_available](https://www.linkedin.com/posts/arshitha-k-653ab921b_mongodb-expressjs-aws-activity-7081877361893273601-BAB-?utm_source=share&utm_medium=member_desktop))
+   - **Demo:**https://www.linkedin.com/posts/arshitha-k-653ab921b_mongodb-expressjs-aws-activity-7081877361893273601-BAB-?utm_source=share&utm_medium=member_desktop
 
 2. **Project Name:** [Project 2](link_to_project2_repo)
    - **Description:** Brief description of the project.
