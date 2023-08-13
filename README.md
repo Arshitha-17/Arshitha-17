@@ -32,7 +32,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
    - **Tech Stack:** React.js, Firebase
    - **Demo:** [Live Demo](link_to_live_demo_if_available)
 
-## How to Run
+## How to Run 
 
 1. Clone this repository:
    ```bash
