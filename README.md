@@ -29,7 +29,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 
 2. **Project Name:** [Project 2](link_to_project2_repo)
    - **Description:** Brief description of the project.
-   - **Tech Stack:** React.js, Firebase
+   - **Tech Stack:** React.js
    - **Demo:** [Live Demo](link_to_live_demo_if_available)
 
 ## How to Run 
