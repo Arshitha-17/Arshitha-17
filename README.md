@@ -27,10 +27,6 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
    - **Tech Stack:** Node.js, Express, MongoDB, JavaScript
    - **Demo:**https://www.linkedin.com/posts/arshitha-k-653ab921b_mongodb-expressjs-aws-activity-7081877361893273601-BAB-?utm_source=share&utm_medium=member_desktop  
 
-2. **Project Name:** [Project 2](link_to_project2_repo)
-   - **Description:** Brief description of the project.
-   - **Tech Stack:** React.js
-   - **Demo:** [Live Demo](link_to_live_demo_if_available)
 
 ## How to Run 
 
