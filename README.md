@@ -19,7 +19,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 - Express.js
 - SQL
 - JavaScript
-
+ 
 ## Projects
 
 1. **Project Name:** Zel Cakes || https://github.com/Arshitha-17/Zel
