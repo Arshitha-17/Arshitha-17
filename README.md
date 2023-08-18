@@ -20,7 +20,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 - SQL
 - JavaScript
  
-## Projects
+## Projects 
 
 1. **Project Name:** Zel Cakes || https://github.com/Arshitha-17/Zel
    **Description:** Zel Cakes is a Node.js and Express-based eCommerce platform focused on cake sales. With MongoDB as the backend, it offers seamless user experiences. Customers can explore an extensive cake catalog, use advanced search filters, and securely purchase cakes through Razorpay. The admin dashboard streamlines product, order, and user management. "Zel Cakes" simplifies cake shopping while showcasing your technical expertise.
