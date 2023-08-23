@@ -15,7 +15,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 
 - Node.js
 - React.js
-- MongoDB
+- MongoDB 
 - Express.js
 - SQL
 - JavaScript
