@@ -7,7 +7,7 @@ Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stac
 ## About Me 
 
 - **Name:** Arshitha K
-- **Education:** BCA Graduate
+- **Education:** BCA Graduate 
 - **LinkedIn:** https://www.linkedin.com/in/arshitha-k-653ab921b/
 - **Contact:** arshithaachu165@gmail.com
 
