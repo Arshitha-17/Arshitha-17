@@ -1,6 +1,6 @@
 # Arshitha K - MERN Stack Developer
 
-## Introduction 
+## Introduction
 
 Hello! I'm Arshitha K, a passionate MERN (MongoDB, Express, React, Node.js) Stack developer with a strong foundation in computer science. I hold a degree in Bachelor of Computer Applications (BCA) and have honed my skills in various technologies, including Node.js, React.js, MongoDB, Express, SQL, and JavaScript.
  
